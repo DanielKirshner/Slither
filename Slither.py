@@ -121,7 +121,7 @@ def pause():
         clock.tick(FPS)
 
 def score(score):
-    text = smallfont.render("Score: "+str(score), True, blue)
+    text = smallfont.render("Score: " + str(score), True, blue)
     gameDisplay.blit(text, [0,0])
     
 def randAppleGen():
