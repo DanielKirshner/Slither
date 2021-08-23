@@ -3,9 +3,11 @@ A beautiful snake game made with pygame :)
 Originally written in python 2, but works great with python 3.8
 
 Install the pip packages:
+
 `pip install -r requirements.txt`
 
 Then run the game:
+
 `python Slither.py`
 
 ![ingame screeenshot](https://lh3.googleusercontent.com/pw/ACtC-3cj3Jkqxaxyyj6fBUpexka61Ecn4UR2VctiFGD5FdRz2pEpwhLhEgDy_686bdadb-vCLYgEdf9h0KZO0MQGrUvu_tpGh89aOajUGuuKAk0rYQMM6ANiRoDIFzdl9y6SozFDaPegXFF0MllIEuN0S_s=w620-h396-no?authuser=0)
